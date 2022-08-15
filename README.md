@@ -21,7 +21,8 @@ CONCLUSION: yes there is relation
 
 relationship between weekdays and average steps and calories
 
-![tabpublic_jV9JsHYjO4](https://user-images.githubusercontent.com/111160753/184566343-8337600e-e9be-4b26-80e0-7623ac0d4091.png)
+
+![tabpublic_AVwQvQOlas](https://user-images.githubusercontent.com/111160753/184568104-18edf138-ed87-4c7e-8032-2ee93f1135dd.png)
 
 
 
