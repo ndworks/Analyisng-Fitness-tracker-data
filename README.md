@@ -40,3 +40,10 @@ relationship between total steps and total asleep
 ![tabpublic_HJ9CN5cKWj](https://user-images.githubusercontent.com/111160753/184571141-ea230df1-11a2-4d2c-9cf1-0cbec4727fc9.png)
 
 CONCLUSION: there is no relation
+
+
+
+# SUMMARY 
+
+
+![tabpublic_3UW0BChHiA](https://user-images.githubusercontent.com/111160753/184578640-2139103f-7c4b-47d6-a4d7-6395506e0b8a.png)
