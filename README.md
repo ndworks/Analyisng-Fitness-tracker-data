@@ -1,4 +1,4 @@
-# Analyisng-Fitness-tracker-data
+# Analyzing-Fitness-tracker-data
 
 
 
