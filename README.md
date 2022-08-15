@@ -10,4 +10,16 @@ df.plot(kind='scatter', x='TotalSteps', y='Calories', figsize=(12, 6), color='da
 
 
 # which day users are most active in walking 
-relationship between weekdays and average steps and calories![QuickLook_rTf65SY7kP](https://user-images.githubusercontent.com/111160753/184566090-864c0eb7-642d-439c-8a19-6fd3df038685.png)
+relationship between weekdays and average steps and calories
+
+![tabpublic_jV9JsHYjO4](https://user-images.githubusercontent.com/111160753/184566343-8337600e-e9be-4b26-80e0-7623ac0d4091.png)
+
+
+# is there any relaion between walking more and sleeping longer
+
+![ApplicationFrameHost_Ube97YBdoo](https://user-images.githubusercontent.com/111160753/184566670-e86d85ac-18e0-4bc1-9eab-9c69214a0cbf.png)
+
+relationship between total steps and total sleep
+![ApplicationFrameHost_PQIiAb62p5](https://user-images.githubusercontent.com/111160753/184566801-769e3d1b-02e9-4385-83f8-094a13e6bfd3.png)
+
+CONCLUSION: there is no relation
