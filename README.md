@@ -35,8 +35,9 @@ using sql for analysis
 ![ApplicationFrameHost_Ube97YBdoo](https://user-images.githubusercontent.com/111160753/184566670-e86d85ac-18e0-4bc1-9eab-9c69214a0cbf.png)
 
 
-relationship between total steps and total sleep
+relationship between total steps and total asleep
 
-![ApplicationFrameHost_PQIiAb62p5](https://user-images.githubusercontent.com/111160753/184566801-769e3d1b-02e9-4385-83f8-094a13e6bfd3.png)
+![tabpublic_m8i7Nvyhkq](https://user-images.githubusercontent.com/111160753/184570775-66d7ad0f-735d-42b6-aec9-3106d3b13f6e.png)
+
 
 CONCLUSION: there is no relation
