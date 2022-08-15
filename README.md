@@ -29,7 +29,7 @@ relationship between weekdays and average steps and calories
 
 # Is there any relaion between walking more and sleeping longer
 
-using sql for analying 
+using sql for analysis 
 
 ![ApplicationFrameHost_Ube97YBdoo](https://user-images.githubusercontent.com/111160753/184566670-e86d85ac-18e0-4bc1-9eab-9c69214a0cbf.png)
 
